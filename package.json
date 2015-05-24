@@ -1,0 +1,12 @@
+{
+	"dependencies":{
+		"express": "",
+		"cheerio": "",
+		"request": "",
+		"url": "",
+		"http": "",
+		"crawler": "",
+		"path": "",
+		"querystring": ""
+	}
+}
